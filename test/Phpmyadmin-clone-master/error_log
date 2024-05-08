@@ -1,0 +1,25 @@
+[30-Jan-2024 12:44:27 UTC] PHP Notice:  Undefined index: id in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/edit.php on line 2
+[30-Jan-2024 12:44:27 UTC] PHP Notice:  Undefined index: table in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/edit.php on line 3
+[30-Jan-2024 18:15:03 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'angelgra_2024.users' doesn't exist in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/login.php on line 11
+[30-Jan-2024 18:16:26 Asia/Kolkata] PHP Warning:  PDOStatement::execute(): SQLSTATE[42S02]: Base table or view not found: 1146 Table 'angelgra_2024.users' doesn't exist in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/register.php on line 11
+[30-Jan-2024 18:16:27 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:16:27 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:16:27 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:00 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:00 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:00 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:03 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:03 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:03 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:21 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:21 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:21 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:25 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:25 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:25 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:29 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:29 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:17:29 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:18:18 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:18:18 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51
+[30-Jan-2024 18:18:18 Asia/Kolkata] PHP Notice:  Undefined index: Tables_in_hackathon in /home/angelgra/public_html/2024/test/Phpmyadmin-clone-master/includes/classes/createTable.php on line 51

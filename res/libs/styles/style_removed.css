@@ -1,0 +1,32 @@
+/* 
+.custom-logo{
+    background: radial-gradient(red 10px, white 40%, transparent 65%);
+} */
+
+label {
+    display: block;
+    margin: 1px;
+    padding: 1px;
+}
+
+.field {
+    margin: 1px;
+    padding: 1px;
+}
+
+input{
+    border-color: #00bd06;
+    border-color: #ced4da;
+    box-shadow: none;
+}
+
+input:required {
+    border-color: #00bd06;
+    box-shadow: none;
+}
+
+input:required:invalid {
+    border-color: #ff0000;
+    border-width: 3px;
+    box-shadow: 4px 4px 14px #ff0000;
+}

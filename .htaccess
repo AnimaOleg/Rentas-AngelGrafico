@@ -1,0 +1,9 @@
+RewriteEngine On
+# Evita bucles de redirección añadiendo una condición para no redirigir si la solicitud ya se ha redirigido a 'test/'
+# RewriteCond %{REQUEST_URI} !^/2024/test/
+# RewriteRule ^2024/(.+)$ /2024/test/$1 [L]
+
+# Aquí puedes añadir otras reglas si es necesario
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

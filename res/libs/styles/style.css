@@ -1,0 +1,24 @@
+@media (min-width: 1200px){
+    .container {
+        max-width: 1740px;
+    }
+}
+.btn-link{
+    padding: 0px;
+    padding-left: 0px;
+}
+
+label{
+    font-weight: bold;
+}
+
+/* NO FUNCIONA */
+/* body{
+    font-family: 'basier_circleregular', 'Roboto', sans-serif !important;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+} */
+

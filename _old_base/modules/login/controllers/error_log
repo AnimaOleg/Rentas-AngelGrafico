@@ -1,0 +1,192 @@
+[15-Jan-2024 18:06:07 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:06:07 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:06:07 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 3
+[15-Jan-2024 18:06:07 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:06:07 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:06:07 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:06:07 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:06:33 UTC] PHP Warning:  include_once(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:06:33 UTC] PHP Warning:  include_once(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:06:33 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 3
+[15-Jan-2024 18:06:33 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:06:33 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:06:33 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:06:33 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:06:37 UTC] PHP Warning:  include_once(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:06:37 UTC] PHP Warning:  include_once(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:06:37 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 3
+[15-Jan-2024 18:06:37 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:06:37 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:06:37 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:06:37 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:07:01 UTC] PHP Warning:  include_once(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:07:01 UTC] PHP Warning:  include_once(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:07:01 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 3
+[15-Jan-2024 18:07:01 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:07:01 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:07:01 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:07:01 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:07:04 UTC] PHP Warning:  include_once(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:07:04 UTC] PHP Warning:  include_once(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:07:04 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 3
+[15-Jan-2024 18:07:04 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:07:04 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:07:04 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:07:04 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:07:30 UTC] PHP Warning:  include_once(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:07:30 UTC] PHP Warning:  include_once(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:07:30 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 3
+[15-Jan-2024 18:07:30 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:07:30 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:07:30 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:07:30 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:10:37 UTC] PHP Warning:  include(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:10:37 UTC] PHP Warning:  include(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:10:37 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 3
+[15-Jan-2024 18:10:37 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:10:37 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:10:37 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:10:37 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:11:04 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:04 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:04 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 3
+[15-Jan-2024 18:11:04 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:04 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:04 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:04 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:11:16 UTC] PHP Warning:  include(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:16 UTC] PHP Warning:  include(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:16 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:16 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:16 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:16 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:11:30 UTC] PHP Warning:  include(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:30 UTC] PHP Warning:  include(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:30 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:30 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:30 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:30 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:11:34 UTC] PHP Warning:  include(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:34 UTC] PHP Warning:  include(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:34 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:34 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:34 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:34 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:11:49 UTC] PHP Warning:  include(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:49 UTC] PHP Warning:  include(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:49 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:49 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:49 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:49 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:11:57 UTC] PHP Warning:  include(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:57 UTC] PHP Warning:  include(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:11:57 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:57 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:57 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:11:57 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:12:18 UTC] PHP Warning:  include(/home/angelgra/public_html/config.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:12:18 UTC] PHP Warning:  include(): Failed opening '/home/angelgra/public_html/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 2
+[15-Jan-2024 18:12:18 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:12:18 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:12:18 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[15-Jan-2024 18:12:18 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:19
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(63): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 19
+[15-Jan-2024 18:23:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/angelgra/public_html/2024/modules/login/models/mLogin.php on line 13
+[15-Jan-2024 18:24:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/angelgra/public_html/2024/modules/login/models/mLogin.php on line 13
+[15-Jan-2024 18:24:54 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 4
+[15-Jan-2024 18:24:54 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 4
+[15-Jan-2024 18:24:54 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 4
+[15-Jan-2024 18:24:54 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:17
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(61): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 17
+[16-Jan-2024 11:07:54 UTC] PHP Warning:  Use of undefined constant MODULE_PATH - assumed 'MODULE_PATH' (this will throw an Error in a future version of PHP) in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 4
+[16-Jan-2024 11:07:54 UTC] PHP Warning:  include_once(MODULE_PATHlogin/models/mLogin.php): failed to open stream: No such file or directory in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 4
+[16-Jan-2024 11:07:54 UTC] PHP Warning:  include_once(): Failed opening 'MODULE_PATHlogin/models/mLogin.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 4
+[16-Jan-2024 11:07:54 UTC] PHP Fatal error:  Uncaught Error: Class 'mLogin' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:17
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/controllers/login.php(61): LoginController->__construct()
+#1 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 17
+[16-Jan-2024 11:08:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/angelgra/public_html/2024/modules/login/models/mLogin.php on line 13
+[16-Jan-2024 11:11:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[16-Jan-2024 11:11:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[16-Jan-2024 11:11:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 6
+[16-Jan-2024 11:12:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/angelgra/public_html/2024/modules/login/controllers/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/angelgra/public_html/2024/modules/login/controllers/login.php on line 7
+[16-Jan-2024 11:12:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/angelgra/public_html/2024/modules/login/models/mLogin.php on line 13
+[16-Jan-2024 11:13:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/angelgra/public_html/2024/modules/login/models/mLogin.php on line 13
+[16-Jan-2024 11:46:31 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/angelgra/public_html/2024/base/Model.php:77
+Stack trace:
+#0 /home/angelgra/public_html/2024/modules/login/models/mLogin.php(21): Model->existeRegistro(Array)
+#1 /home/angelgra/public_html/2024/modules/login/controllers/login.php(17): mLogin->verificarCredenciales('admin', '1234')
+#2 /home/angelgra/public_html/2024/modules/login/controllers/login.php(64): LoginController->verificarLogin('admin', '1234')
+#3 {main}
+  thrown in /home/angelgra/public_html/2024/base/Model.php on line 77
